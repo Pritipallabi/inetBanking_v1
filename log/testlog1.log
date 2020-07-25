@@ -1,0 +1,209 @@
+2020-07-18 14:54:48,227 [main] INFO Ebanking - URL is opened
+2020-07-18 14:54:48,437 [main] INFO Ebanking - Enter username
+2020-07-18 14:54:48,542 [main] INFO Ebanking - Enter password
+2020-07-18 14:54:51,801 [main] INFO Ebanking - Login test failed
+2020-07-18 14:59:04,411 [main] INFO Ebanking - URL is opened
+2020-07-18 14:59:04,533 [main] INFO Ebanking - Enter username
+2020-07-18 14:59:04,645 [main] INFO Ebanking - Enter password
+2020-07-18 14:59:08,164 [main] INFO Ebanking - Login test failed
+2020-07-18 14:59:58,111 [main] INFO Ebanking - URL is opened
+2020-07-18 14:59:58,233 [main] INFO Ebanking - Enter username
+2020-07-18 14:59:58,341 [main] INFO Ebanking - Enter password
+2020-07-18 15:00:07,906 [main] INFO Ebanking - Login test failed
+2020-07-18 15:00:51,057 [main] INFO Ebanking - URL is opened
+2020-07-18 15:00:51,178 [main] INFO Ebanking - Enter username
+2020-07-18 15:00:51,288 [main] INFO Ebanking - Enter password
+2020-07-18 15:00:58,114 [main] INFO Ebanking - Login test failed
+2020-07-18 15:04:58,504 [main] INFO Ebanking - URL is opened
+2020-07-18 15:04:58,633 [main] INFO Ebanking - Enter username
+2020-07-18 15:04:58,738 [main] INFO Ebanking - Enter password
+2020-07-18 15:21:24,991 [main] INFO Ebanking - URL is opened
+2020-07-18 15:21:25,128 [main] INFO Ebanking - Enter username
+2020-07-18 15:21:25,232 [main] INFO Ebanking - Enter password
+2020-07-23 23:28:01,259 [main] INFO Ebanking - URL is opened
+2020-07-23 23:28:01,486 [main] INFO Ebanking - Enter username
+2020-07-23 23:28:01,558 [main] INFO Ebanking - Enter password
+2020-07-23 23:28:04,866 [main] INFO Ebanking - Login test passed
+2020-07-24 00:46:52,324 [main] INFO Ebanking - URL is opened
+2020-07-24 00:46:52,711 [main] INFO Ebanking - Enter username
+2020-07-24 00:46:52,814 [main] INFO Ebanking - Enter password
+2020-07-24 00:46:56,150 [main] INFO Ebanking - Login test passed
+2020-07-24 00:47:55,363 [main] INFO Ebanking - URL is opened
+2020-07-24 00:47:55,488 [main] INFO Ebanking - Enter username
+2020-07-24 00:47:55,804 [main] INFO Ebanking - Enter password
+2020-07-24 00:58:48,822 [main] INFO Ebanking - Username provide
+2020-07-24 00:58:49,246 [main] INFO Ebanking - password provide
+2020-07-24 01:01:00,553 [main] INFO Ebanking - Username provide
+2020-07-24 01:01:00,642 [main] INFO Ebanking - password provide
+2020-07-24 01:01:02,317 [main] INFO Ebanking - Login passed
+2020-07-24 01:01:04,828 [main] INFO Ebanking - Username provide
+2020-07-24 01:01:04,888 [main] INFO Ebanking - password provide
+2020-07-24 01:01:06,747 [main] INFO Ebanking - Username provide
+2020-07-24 01:01:06,810 [main] INFO Ebanking - password provide
+2020-07-24 01:01:09,282 [main] INFO Ebanking - Username provide
+2020-07-24 01:01:09,348 [main] INFO Ebanking - password provide
+2020-07-24 17:59:13,816 [main] INFO Ebanking - User name is provided
+2020-07-24 17:59:13,957 [main] INFO Ebanking - Passsword is provided
+2020-07-24 18:00:03,439 [main] INFO Ebanking - User name is provided
+2020-07-24 18:00:03,526 [main] INFO Ebanking - Passsword is provided
+2020-07-24 18:01:11,836 [main] INFO Ebanking - User name is provided
+2020-07-24 18:01:11,937 [main] INFO Ebanking - Passsword is provided
+2020-07-24 18:02:18,042 [main] INFO Ebanking - test case passed....
+2020-07-24 18:03:14,047 [main] INFO Ebanking - User name is provided
+2020-07-24 18:03:14,170 [main] INFO Ebanking - Passsword is provided
+2020-07-24 18:04:13,774 [main] INFO Ebanking - User name is provided
+2020-07-24 18:04:14,167 [main] INFO Ebanking - Passsword is provided
+2020-07-24 18:04:59,196 [main] INFO Ebanking - test case passed....
+2020-07-24 18:08:57,674 [main] INFO Ebanking - User name is provided
+2020-07-24 18:08:57,797 [main] INFO Ebanking - Passsword is provided
+2020-07-24 18:09:03,245 [main] INFO Ebanking - Providing customer details
+2020-07-24 18:09:12,184 [main] INFO Ebanking - test case passed....
+2020-07-24 18:47:08,048 [main] INFO Ebanking - URL is opened
+2020-07-24 18:47:08,199 [main] INFO Ebanking - Enter username
+2020-07-24 18:47:08,279 [main] INFO Ebanking - Enter password
+2020-07-24 18:47:13,631 [main] INFO Ebanking - Login test passed
+2020-07-24 18:47:30,431 [main] INFO Ebanking - Username provide
+2020-07-24 18:47:30,557 [main] INFO Ebanking - password provide
+2020-07-24 18:47:37,963 [main] INFO Ebanking - Login passed
+2020-07-24 18:47:41,619 [main] INFO Ebanking - Login passed
+2020-07-24 18:47:41,708 [main] INFO Ebanking - Username provide
+2020-07-24 18:47:41,772 [main] INFO Ebanking - password provide
+2020-07-24 18:47:45,359 [main] INFO Ebanking - Username provide
+2020-07-24 18:47:45,419 [main] INFO Ebanking - password provide
+2020-07-24 18:47:50,215 [main] INFO Ebanking - Username provide
+2020-07-24 18:47:50,301 [main] INFO Ebanking - password provide
+2020-07-24 18:47:54,493 [main] INFO Ebanking - Username provide
+2020-07-24 18:47:54,560 [main] INFO Ebanking - password provide
+2020-07-24 18:47:58,649 [main] INFO Ebanking - Username provide
+2020-07-24 18:47:58,713 [main] INFO Ebanking - password provide
+2020-07-24 18:48:19,328 [main] INFO Ebanking - User name is provided
+2020-07-24 18:48:19,403 [main] INFO Ebanking - Passsword is provided
+2020-07-24 18:48:35,029 [main] INFO Ebanking - Providing customer details
+2020-07-24 18:48:46,437 [main] INFO Ebanking - test case passed....
+2020-07-24 18:55:01,785 [main] INFO Ebanking - URL is opened
+2020-07-24 18:55:02,346 [main] INFO Ebanking - Enter username
+2020-07-24 18:55:02,467 [main] INFO Ebanking - Enter password
+2020-07-24 18:55:18,375 [main] INFO Ebanking - Username provide
+2020-07-24 18:55:18,446 [main] INFO Ebanking - password provide
+2020-07-24 18:55:24,059 [main] INFO Ebanking - Username provide
+2020-07-24 18:55:24,124 [main] INFO Ebanking - password provide
+2020-07-24 18:55:26,758 [main] INFO Ebanking - Username provide
+2020-07-24 18:55:26,829 [main] INFO Ebanking - password provide
+2020-07-24 18:55:30,963 [main] INFO Ebanking - Username provide
+2020-07-24 18:55:31,037 [main] INFO Ebanking - password provide
+2020-07-24 18:55:33,519 [main] INFO Ebanking - Username provide
+2020-07-24 18:55:33,578 [main] INFO Ebanking - password provide
+2020-07-24 23:09:08,972 [main] INFO Ebanking - URL is opened
+2020-07-24 23:09:09,766 [main] INFO Ebanking - Enter username
+2020-07-24 23:09:10,736 [main] INFO Ebanking - Enter password
+2020-07-24 23:09:31,429 [main] INFO Ebanking - Username provide
+2020-07-24 23:09:31,555 [main] INFO Ebanking - password provide
+2020-07-24 23:09:42,281 [main] INFO Ebanking - Login passed
+2020-07-24 23:10:11,507 [main] INFO Ebanking - Login passed
+2020-07-24 23:10:11,626 [main] INFO Ebanking - Username provide
+2020-07-24 23:10:11,700 [main] INFO Ebanking - password provide
+2020-07-24 23:10:16,937 [main] INFO Ebanking - Username provide
+2020-07-24 23:10:17,009 [main] INFO Ebanking - password provide
+2020-07-24 23:10:20,740 [main] INFO Ebanking - Username provide
+2020-07-24 23:10:20,810 [main] INFO Ebanking - password provide
+2020-07-24 23:10:23,898 [main] INFO Ebanking - Username provide
+2020-07-24 23:10:23,987 [main] INFO Ebanking - password provide
+2020-07-24 23:11:03,293 [main] INFO Ebanking - Username provide
+2020-07-24 23:11:03,411 [main] INFO Ebanking - password provide
+2020-07-24 23:11:19,767 [main] INFO Ebanking - User name is provided
+2020-07-24 23:11:20,351 [main] INFO Ebanking - Passsword is provided
+2020-07-24 23:11:25,791 [main] INFO Ebanking - Providing customer details
+2020-07-24 23:11:39,086 [main] INFO Ebanking - test case passed....
+2020-07-24 23:12:12,436 [main] INFO Ebanking - URL is opened
+2020-07-24 23:12:12,576 [main] INFO Ebanking - Enter username
+2020-07-24 23:12:12,663 [main] INFO Ebanking - Enter password
+2020-07-24 23:12:14,670 [main] INFO Ebanking - Login test passed
+2020-07-24 23:12:26,537 [main] INFO Ebanking - Username provide
+2020-07-24 23:12:26,655 [main] INFO Ebanking - password provide
+2020-07-24 23:12:37,801 [main] INFO Ebanking - Login passed
+2020-07-24 23:12:42,287 [main] INFO Ebanking - Login passed
+2020-07-24 23:12:42,404 [main] INFO Ebanking - Username provide
+2020-07-24 23:12:42,479 [main] INFO Ebanking - password provide
+2020-07-24 23:12:45,924 [main] INFO Ebanking - Username provide
+2020-07-24 23:12:46,001 [main] INFO Ebanking - password provide
+2020-07-24 23:12:48,922 [main] INFO Ebanking - Username provide
+2020-07-24 23:12:48,999 [main] INFO Ebanking - password provide
+2020-07-24 23:12:52,041 [main] INFO Ebanking - Username provide
+2020-07-24 23:12:52,131 [main] INFO Ebanking - password provide
+2020-07-24 23:12:56,906 [main] INFO Ebanking - Username provide
+2020-07-24 23:12:56,982 [main] INFO Ebanking - password provide
+2020-07-24 23:13:14,991 [main] INFO Ebanking - User name is provided
+2020-07-24 23:13:15,097 [main] INFO Ebanking - Passsword is provided
+2020-07-24 23:13:33,684 [main] INFO Ebanking - Providing customer details
+2020-07-24 23:13:46,583 [main] INFO Ebanking - test case passed....
+2020-07-24 23:48:28,420 [main] INFO Ebanking - URL is opened
+2020-07-24 23:48:28,830 [main] INFO Ebanking - Enter username
+2020-07-24 23:48:28,936 [main] INFO Ebanking - Enter password
+2020-07-24 23:48:48,257 [main] INFO Ebanking - Username provide
+2020-07-24 23:48:48,360 [main] INFO Ebanking - password provide
+2020-07-24 23:48:57,788 [main] INFO Ebanking - Login passed
+2020-07-24 23:48:59,783 [main] INFO Ebanking - Login passed
+2020-07-24 23:48:59,869 [main] INFO Ebanking - Username provide
+2020-07-24 23:48:59,936 [main] INFO Ebanking - password provide
+2020-07-24 23:49:02,887 [main] INFO Ebanking - Username provide
+2020-07-24 23:49:02,950 [main] INFO Ebanking - password provide
+2020-07-24 23:49:05,461 [main] INFO Ebanking - Username provide
+2020-07-24 23:49:05,527 [main] INFO Ebanking - password provide
+2020-07-24 23:49:08,484 [main] INFO Ebanking - Username provide
+2020-07-24 23:49:08,555 [main] INFO Ebanking - password provide
+2020-07-24 23:49:11,034 [main] INFO Ebanking - Username provide
+2020-07-24 23:49:11,108 [main] INFO Ebanking - password provide
+2020-07-24 23:49:27,481 [main] INFO Ebanking - User name is provided
+2020-07-24 23:49:27,577 [main] INFO Ebanking - Passsword is provided
+2020-07-24 23:49:32,107 [main] INFO Ebanking - Providing customer details
+2020-07-24 23:49:39,156 [main] INFO Ebanking - test case failed....
+2020-07-24 23:51:28,162 [main] INFO Ebanking - URL is opened
+2020-07-24 23:51:28,279 [main] INFO Ebanking - Enter username
+2020-07-24 23:51:28,357 [main] INFO Ebanking - Enter password
+2020-07-24 23:51:44,118 [main] INFO Ebanking - Username provide
+2020-07-24 23:51:44,265 [main] INFO Ebanking - password provide
+2020-07-24 23:51:49,610 [main] INFO Ebanking - Login passed
+2020-07-24 23:51:50,980 [main] INFO Ebanking - Login passed
+2020-07-24 23:51:51,058 [main] INFO Ebanking - Username provide
+2020-07-24 23:51:51,122 [main] INFO Ebanking - password provide
+2020-07-24 23:51:53,399 [main] INFO Ebanking - Username provide
+2020-07-24 23:51:53,473 [main] INFO Ebanking - password provide
+2020-07-24 23:51:56,096 [main] INFO Ebanking - Username provide
+2020-07-24 23:51:56,165 [main] INFO Ebanking - password provide
+2020-07-24 23:51:58,642 [main] INFO Ebanking - Username provide
+2020-07-24 23:51:58,724 [main] INFO Ebanking - password provide
+2020-07-24 23:52:01,274 [main] INFO Ebanking - Username provide
+2020-07-24 23:52:01,345 [main] INFO Ebanking - password provide
+2020-07-24 23:52:18,824 [main] INFO Ebanking - User name is provided
+2020-07-24 23:52:18,897 [main] INFO Ebanking - Passsword is provided
+2020-07-24 23:52:25,486 [main] INFO Ebanking - Providing customer details
+2020-07-24 23:53:27,619 [main] INFO Ebanking - URL is opened
+2020-07-24 23:53:27,742 [main] INFO Ebanking - Enter username
+2020-07-24 23:53:27,818 [main] INFO Ebanking - Enter password
+2020-07-24 23:53:36,829 [main] INFO Ebanking - Login test passed
+2020-07-24 23:53:51,704 [main] INFO Ebanking - User name is provided
+2020-07-24 23:53:51,788 [main] INFO Ebanking - Passsword is provided
+2020-07-24 23:54:04,804 [main] INFO Ebanking - Providing customer details
+2020-07-24 23:54:19,233 [main] INFO Ebanking - test case passed....
+2020-07-24 23:58:31,123 [main] INFO Ebanking - User name is provided
+2020-07-24 23:58:31,415 [main] INFO Ebanking - Passsword is provided
+2020-07-24 23:58:36,121 [main] INFO Ebanking - Providing customer details
+2020-07-24 23:59:43,526 [main] INFO Ebanking - User name is provided
+2020-07-24 23:59:43,717 [main] INFO Ebanking - Passsword is provided
+2020-07-24 23:59:48,949 [main] INFO Ebanking - Providing customer details
+2020-07-24 23:59:56,999 [main] INFO Ebanking - test case passed....
+2020-07-25 11:42:11,608 [main] INFO Ebanking - User name is provided
+2020-07-25 11:42:11,774 [main] INFO Ebanking - Passsword is provided
+2020-07-25 11:42:18,353 [main] INFO Ebanking - Providing customer details
+2020-07-25 11:42:59,100 [main] INFO Ebanking - User name is provided
+2020-07-25 11:42:59,256 [main] INFO Ebanking - Passsword is provided
+2020-07-25 11:43:08,069 [main] INFO Ebanking - Providing customer details
+2020-07-25 11:43:15,139 [main] INFO Ebanking - test case failed....
+2020-07-25 11:45:02,108 [main] INFO Ebanking - User name is provided
+2020-07-25 11:45:02,212 [main] INFO Ebanking - Passsword is provided
+2020-07-25 11:45:21,915 [main] INFO Ebanking - Providing customer details
+2020-07-25 11:45:30,540 [main] INFO Ebanking - test case passed....
+2020-07-25 11:52:39,666 [main] INFO Ebanking - User name is provided
+2020-07-25 11:52:39,796 [main] INFO Ebanking - Passsword is provided
+2020-07-25 11:52:53,276 [main] INFO Ebanking - Providing customer details
+2020-07-25 11:53:07,239 [main] INFO Ebanking - test case passed....
